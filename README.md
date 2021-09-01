@@ -1,5 +1,6 @@
 # restful_api
 👉creating restapi using postman ,mysql and maven
+👉it can do CRUD OPERATION ON DATABASE WITH THE FRONTEND OF POSTMAN
 
 ✨GET OPERATION
 
